@@ -2,7 +2,7 @@
 
 
 import { ArrowDown } from "lucide-react";
-import img from '../assets/IMG_E7340.JPG'
+import img from '../assets/IMG_E7340.jpg'
 export const HeroSection = () => {
   return (
     <section
